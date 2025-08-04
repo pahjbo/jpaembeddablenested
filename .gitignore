@@ -1,0 +1,7 @@
+/.idea/
+/build/
+/.gradle/
+/dump.sql
+/test.sql
+/test-drop.sql
+/bin/
