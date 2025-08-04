@@ -1,6 +1,8 @@
 Hibernate problem with complex embeddables
 ============================================
 
+This is reported as https://hibernate.atlassian.net/browse/HHH-19680
+
 If there is an embeddable inheritance hierarchy which contains repeated embedded member with association overrides into a complex hierarchy which itself has further embeddables then querying part of the subHierarchy does not work properly
 
 ```
