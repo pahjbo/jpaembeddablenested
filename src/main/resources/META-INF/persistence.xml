@@ -5,12 +5,7 @@
         <class>org.example.AnObject</class>
         <class>org.example.Coordinate</class>
    <class>org.example.GenericPoint</class>
-   <class>org.example.IsoTime</class>
-   <class>org.example.JD</class>
-        <class>org.example.MJD</class>
-        <class>org.example.Point</class>
-        <class>org.example.TimeInstant</class>
-        <class>org.example.TimeStamp</class>
+       <class>org.example.Point</class>
         <class>org.example.Unit</class>
         <class>org.example.Quantity</class>
         <class>org.example.RealQuantity</class>
