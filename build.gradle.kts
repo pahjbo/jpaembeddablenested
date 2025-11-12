@@ -16,9 +16,9 @@ repositories {
 }
 
 dependencies {
-    annotationProcessor ("org.hibernate.orm:hibernate-processor:7.0.8.Final")
-    implementation("org.hibernate.orm:hibernate-core:7.0.8.Final")
-    testRuntimeOnly("org.hibernate.orm:hibernate-testing:7.0.8.Final")
+    annotationProcessor ("org.hibernate.orm:hibernate-processor:7.1.7.Final")
+    implementation("org.hibernate.orm:hibernate-core:7.1.7.Final")
+    testRuntimeOnly("org.hibernate.orm:hibernate-testing:7.1.7.Final")
     // Use JUnit Jupiter for testing.
     testImplementation(platform("org.junit:junit-bom:5.13.0"))
     testImplementation("org.junit.jupiter:junit-jupiter")
